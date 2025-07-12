@@ -1,7 +1,7 @@
 📈 Real-Time Stock Market Dashboard
 A powerful and interactive dashboard to track and visualize live stock market data, built with Streamlit, Plotly, and Yahoo Finance API.
 
-<img width="1920" height="1032" alt="Real-Time Stock Dashboard - Brave 12-07-2025 11_54_10" src="https://github.com/user-attachments/assets/8da72cf4-2f0f-4d06-9fa9-90928d4f8634" />
+Real-Time Stock Dashboard - Brave 12-07-2025 11_54_10.png
 
 Live Demo: https://realtimestockdashboard-rpmu2btuhhawus242z5rnh.streamlit.app/
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
